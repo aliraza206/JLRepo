@@ -1,8 +1,13 @@
 Name	Alias	Power
 Clark Kent,	Superman,	All
 Bruce Wayne,	Batman,	Rich
+<<<<<<< HEAD
 Diana Prince,	Wonder Woman,	Strength 
 Barry Allen, Flash, Speed
 an, other, line
 Ali, Raza, Hacking
 Diana Prince,	Wonder Woman,	Strength and Speedo
+=======
+Diana Prince,	Wonder Woman,	Strength and Speedo
+Barry Allen, Flash, Speed
+>>>>>>> de0e718 (Added Flash)
